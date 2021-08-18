@@ -1,0 +1,65 @@
+h2{
+    background-color: greenyellow;
+    margin-top: -20px;
+    color: black;
+    width: 100%;
+    margin-bottom: 5px;
+
+}
+.note{
+    color: black;
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+}
+body{
+    background-size: cover;
+}
+.div_speed_img, .div_Volume_img{
+    width: 200px;
+    border-radius: 100px;
+
+}
+.speed_div{
+    float: left;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+.volume_div{
+    float: right;
+    padding-top: 15px;
+    padding-right: 10px;
+}
+
+#speed{
+    font-size: 25px;
+    margin: 15px;
+}
+#volume{
+    font-size: 25px;
+    margin: 15px;
+}
+.play{
+    width: 130px;
+    font-size: 25px;
+}
+
+.heading{
+    padding-top: 10px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.copy_rightfooter{
+    position: fixed;
+    bottom:0;
+    line-height: 1.3;
+    font-size: 19px;
+    width: 100%;
+    background-color: black;
+    color:greenyellow;
+    padding-top: 6px;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+}
